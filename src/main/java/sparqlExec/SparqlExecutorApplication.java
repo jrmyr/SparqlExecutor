@@ -10,6 +10,10 @@ import org.springframework.context.ApplicationContext;
 public class SparqlExecutorApplication {
 
     public static void main(String[] args) {
+    	/*
+    	 * Currently the Spring boot appliance seems a bit exaggerated; but mayne we'll need it some time
+    	 */
+
         ApplicationContext context = SpringApplication.run(SparqlExecutorApplication.class, args);
 
         String sparqlQuery =
