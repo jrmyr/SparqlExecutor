@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:ecodp="http://open-data.europa.eu/ontologies/ec-odp#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos-xl="http://www.w3.org/2008/05/skos-xl#"
+         xmlns:dcam="http://purl.org/dc/dcam/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns="http://open-data.europa.eu/ontologies/ec-odp-example#">
+	<!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here-->
+	<dcat:Dataset rdf:about="http://dx.doi.org/10.5290/4700000">
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<dct:title xml:lang="en">Test data for uniaxial tensile on material A533B ar (batch JRC NescIV) at 25 Celsius</dct:title>
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Title, 1 ... 1 can be filled in in multiple translations through-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<dct:alternative xml:lang="en">Elevated temperature material properties</dct:alternative>
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Alternative Title(s), 0..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<dct:description xml:lang="en">The Network for Evaluating Structural Components (NESC) coordinated extensive materials testing and fracture analyses performed by a group of twenty European organizations. The NESC-IV project addressed the transferability of fracture toughness data from laboratory specimens to applications that assess the integrity of reactor pressure vessels subjected to upset and normal loading transients. The coordinated experimental and analytical program drew from major elements of the biaxial features testing program conducted by the Heavy Section Steel Technology Program at the Oak Ridge National Laboratory. In this context, the JRC performed impact and tensile tests in the temperature range -90 to 80ºC on type A533B ferritic steel.</dct:description>
+
+
+
+
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Description, 1..*-->
+		<!--Identifier, 0..*-->
+		<ecodp:ckan-name>jrcpett-odin-test-material-a533b-ar-batch-jrc-nesciv-at-25-celsius</ecodp:ckan-name>
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<ecodp:keyword xml:lang="en">Institute for Energy</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">engineering</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">alloy</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">ferritic</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">steel</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">experimental</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">data</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">creep</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">fracture</ecodp:keyword>
+		<ecodp:keyword xml:lang="en">JRC Petten</ecodp:keyword>
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Keyword, 0..*-->
+		<!--Identifier, 0..*-->
+		<dct:identifier>10.5290/4700000</dct:identifier>
+		<!--Interoperability level, 0..1-->
+		<!--Dataset type, 0..-->
+		<ecodp:datasetType>
+			<skos:Concept rdf:about="http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"/>
+		</ecodp:datasetType>
+		<!--Links and resources-->
+		<!--Documentation, 0..-->
+		<!--valid value are in set of  : Main Related WebPage-->
+		<!--Distribution, 0..-->
+		<dcat:distribution rdf:parseType="Resource">
+			<!--Distribution access URL , 1..1-->
+			<dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://odin.jrc.ec.europa.eu/alcor/Flex?entity=DOI&amp;p_RN5=4700000&amp;p_version=1&amp;action=displayXML&amp;p_xmlType=data</dcat:accessURL>
+			<!--Distribution Type , 1..1-->
+			<rdf:type rdf:resource="http://www.w3.org/TR/vocab-dcat#Download"/>
+			<!--Distribution Format , 1..1-->
+			<ecodp:distributionFormat>application/xml</ecodp:distributionFormat>
+			<!--Distribution Description , 0..1-->
+			<dct:description xml:lang="en">Test data for uniaxial tensile on material A533B ar (batch JRC NescIV) at 25 Celsius</dct:description>
+			<!--Distribution last modified , 0..1-->
+			<!--Distribution issued , 0..1-->
+			<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-08-22</dct:issued>
+		</dcat:distribution>
+		<!--Catalog record , 0..*-->
+		<!--Geographical coverage , 0..*-->
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/AUT"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/BEL"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/CYP"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/CZE"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/DNK"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/EST"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/GRC"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/ESP"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/FIN"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/FRA"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/HRV"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/IRL"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/ITA"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/LTU"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/LUX"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/LVA"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/MLT"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/NLD"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/POL"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/PRT"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/ROU"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/SWE"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/SVN"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/SVK"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/GBR"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/BGR"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/DEU"/>
+		</dct:spatial>
+		<dct:spatial>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/country/HUN"/>
+		</dct:spatial>
+		<!--Publisher , 1..1-->
+		<dct:publisher>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/corporate-body/JRC"/>
+		</dct:publisher>
+		<!--Contact point , 0..1-->
+		<ecodp:contactPoint>
+			<foaf:Agent rdf:about="http://publications.europa.eu/">
+				<!--Contact point telephone, 0..1-->
+				<!--Contact point email, 0..1-->
+				<!--Contact point web page, 0..1-->
+				<foaf:workplaceHomepage rdf:resource="https://odin.jrc.ec.europa.eu/odin/contact.html"/>
+				<!--Contact point address, 0..1-->
+				<ecodp:contactAddress xml:lang="en">EC - JRC Petten, Institute for Energy and Transport, P.O.Box 2, NL-1755 ZG, Petten, Noord Holland, The Netherlands</ecodp:contactAddress>
+				<!--Contact point name, 1..1-->
+				<foaf:name xml:lang="en">European Commission JRC Institute for Energy and Transport</foaf:name>
+			</foaf:Agent>
+		</ecodp:contactPoint>
+		<!--Dateset  issued , 0..1  [2014-11-26]-->
+		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-11-26</dct:issued>
+		<!--Dateset  last modified , 0..1-->
+		<!--Version 0..1-->
+		<dct:hasVersion rdf:parseType="Resource">
+			<!--Version identifier 0..1-->
+			<dct:identifier>1.0</dct:identifier>
+			<!--Version description 0..1-->
+		</dct:hasVersion>
+		<!--License 1..-->
+		<dct:license>
+			<skos:Concept rdf:about="http://open-data.europa.eu/kos/licence/EuropeanCommission"/>
+		</dct:license>
+		<!--Status 1..1-->
+		<ecodp:datasetStatus>
+			<skos:Concept rdf:about="http://open-data.europa.eu/kos/dataset-status/Completed"/>
+		</ecodp:datasetStatus>
+		<!--Language 0..-->
+		<dct:language>
+			<skos:Concept rdf:about="http://publications.europa.eu/resource/authority/language/ENG"/>
+		</dct:language>
+		<!--valid value are in set of  : Main Related WebPage-->
+		<!--Accrual Periodicity-->
+		<!--Temporal coverage (periode) 0..1-->
+	</dcat:Dataset>
+</rdf:RDF>
