@@ -1,0 +1,4 @@
+- Provide query as file parameter
+- Create a JavaFX user interface to ease up use
+- Support turtle and n3 notation
+- Syntax highlithing for query and rdf editors/displays
