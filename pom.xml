@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.myrnet</groupId>
-	<artifactId>tools</artifactId>
+	<artifactId>sparqlExecutor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
