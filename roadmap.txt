@@ -1,4 +1,5 @@
 - Provide query as file parameter
+- Add possibility to use query a SPARQL endpoint
 - Create a JavaFX user interface to ease up use
 - Support turtle and n3 notation
 - Syntax highlithing for query and rdf editors/displays
