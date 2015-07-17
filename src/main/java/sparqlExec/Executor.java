@@ -3,6 +3,7 @@ package sparqlExec;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
+import java.net.URL;
 
 import org.springframework.stereotype.Component;
 
@@ -60,6 +61,18 @@ public class Executor {
 
 	    qe.close();
 	    */
+
+	}
+
+	public void execute(URL url, String sparqlQuery) {
+
+		Query query = QueryFactory.create(sparqlQuery);
+		QueryExecution qe = QueryExecutionFactory.sparqlService(url + "", query);
+
+		ResultSet results = qe.execSelect();
+		ResultSetFormatter.out(System.out, results, query);
+
+		qe.close() ;
 
 	}
 
